@@ -1,0 +1,16 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "AzureManager.Domain Class Library",
+  "authors": [ "ThibautRANISE" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "dependencies": {
+    "Microsoft.Azure.Management.Resources": "3.4.0-preview",
+    "Microsoft.Azure.Management.Storage": "4.1.0-preview",
+    "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.9.302111717-alpha"
+  },
+  "frameworks": {
+    "dnxcore50": { }
+  }
+}
